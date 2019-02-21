@@ -9,7 +9,7 @@
    * @package  PHP-Traffic-Tracker
    * @author   Marica Sorin-Gabriel <sorinmarica4@gmail.com>
    * @license  https://www.gnu.org/licenses/gpl-3.0.txt GNU/GPLv3
-   * @link     [url]
+   * @link     https://github.com/soringabriel/php-traffic-tracker
    * @since    1.0.0
    */
 
